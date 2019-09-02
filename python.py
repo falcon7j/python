@@ -8,3 +8,4 @@ print(c)
 d = 23
 e =20
 >>>>>>> Stashed changes
+f = 123
